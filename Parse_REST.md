@@ -11,3 +11,5 @@
  
  First we will create a RESTful API server to act as an interface for querying and persisting data in a MongoDB database.
  
+ API -> Application Programminf Interface
+ 
