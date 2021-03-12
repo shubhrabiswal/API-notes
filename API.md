@@ -5,7 +5,7 @@ JSON - Javascript Object Notation - standard for API language of communication
 API - things to be communicated
 REST - means of communication(over the web)
 
-### Methods of requesting data from server 👎
+### Methods of requesting data from server :
 
 GET - to retrieve data
 POST - to write new data 
